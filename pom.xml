@@ -5,7 +5,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>org.example</groupId>
-    <artifactId>restassured_for_begginers</artifactId>
+    <artifactId>restassured_for_beginners</artifactId>
     <version>1.0-SNAPSHOT</version>
 
     <dependencies>
